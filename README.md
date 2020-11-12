@@ -1,1 +1,3 @@
-# contacts
+# Contacts
+
+rick.gregory@email.cz
