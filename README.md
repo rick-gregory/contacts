@@ -1,3 +1,4 @@
 # Contacts
 
-rick.gregory@email.cz
+- rick.gregory@email.cz (New York, IT corporation, CEO)
+- 
